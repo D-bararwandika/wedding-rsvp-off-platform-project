@@ -15,3 +15,4 @@
 | Julian            | 3             |
 | Maxibon           | 5 	          |
 | Delphine B        |
+|Delphine B         |3
